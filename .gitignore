@@ -1,4 +1,6 @@
 .env
 friends_queue.txt
 user_games_data.csv
+games_time.csv
 visited_friends.txt
+temp
